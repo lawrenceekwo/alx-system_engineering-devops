@@ -1,1 +1,2 @@
-listing the file cont
+#!/bin/bash
+ls
