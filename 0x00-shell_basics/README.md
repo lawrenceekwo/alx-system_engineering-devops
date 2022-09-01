@@ -1,0 +1,1 @@
+pwd and shebang
