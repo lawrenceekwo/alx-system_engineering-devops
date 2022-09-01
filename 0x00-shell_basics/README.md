@@ -1,1 +1,1 @@
-There is no place like home
+No place like home
