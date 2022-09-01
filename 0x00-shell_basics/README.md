@@ -1,1 +1,1 @@
-pwd and shebang
+what do we have
