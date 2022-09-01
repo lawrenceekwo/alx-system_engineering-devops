@@ -1,1 +1,1 @@
-what do we have
+There is no place like home
