@@ -1,1 +1,1 @@
-exec perm
+add exec
