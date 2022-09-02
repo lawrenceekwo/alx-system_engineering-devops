@@ -1,1 +1,1 @@
-changing grp ownership
+withdrawing ownership
