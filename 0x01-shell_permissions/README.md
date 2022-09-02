@@ -1,1 +1,1 @@
-sets perm
+sets the mode
