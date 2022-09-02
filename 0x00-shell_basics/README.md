@@ -1,1 +1,1 @@
-No place like home
+display current dir
