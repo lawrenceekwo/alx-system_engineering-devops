@@ -1,1 +1,1 @@
-sets the mode
+same mode for dist. files
