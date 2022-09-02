@@ -1,1 +1,1 @@
-same mode for dist. files
+add permission
