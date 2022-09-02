@@ -1,1 +1,1 @@
-switching the current user to anothers
+switching users
