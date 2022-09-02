@@ -1,2 +1,2 @@
 #!/bin/bash
-chown Ekwo:staff _hello
+chgrp school hello
