@@ -1,1 +1,1 @@
-script to greet
+betty in my dir
