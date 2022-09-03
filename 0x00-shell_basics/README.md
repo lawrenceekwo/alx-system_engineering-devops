@@ -1,1 +1,1 @@
-display current dir
+display all files and dir
