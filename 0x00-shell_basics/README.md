@@ -1,1 +1,1 @@
-first dir has to go
+changing the working dir
