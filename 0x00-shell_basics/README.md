@@ -1,1 +1,1 @@
-listing files starting with dot
+file type listing
