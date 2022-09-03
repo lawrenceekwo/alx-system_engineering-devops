@@ -1,1 +1,1 @@
-disp current dir
+script to greet
