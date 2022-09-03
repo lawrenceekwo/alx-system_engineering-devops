@@ -1,1 +1,1 @@
-creating symbolic linking
+a script that copies files into another dir
