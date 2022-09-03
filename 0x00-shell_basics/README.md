@@ -1,1 +1,1 @@
-create a directory in the cur working direc
+writing a command to list files of the cwd
