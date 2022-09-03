@@ -1,1 +1,1 @@
-moving all files beginning with capital letter into a dir
+a script that deletes all files starting with a particular symbol in the cwd
