@@ -1,1 +1,1 @@
-a script that copies files into another dir
+moving all files beginning with capital letter into a dir
