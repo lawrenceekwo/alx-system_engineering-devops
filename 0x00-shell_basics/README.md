@@ -1,1 +1,1 @@
-a script that deletes all files starting with a particular symbol in the cwd
+create a directory in the cur working direc
