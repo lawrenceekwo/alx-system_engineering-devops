@@ -1,1 +1,1 @@
-betty got to go
+first dir has to go
