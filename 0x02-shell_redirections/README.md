@@ -1,1 +1,1 @@
-displaying 2 files at a go
+3 2files loaded to be displayed
